@@ -1,9 +1,13 @@
-.apartmentImg {
-  height: 300px;  
-}
 
 .subtitle {
   font-style: italic;
   font-size: x-large;
+  color: darkblue;
+}
+
+.result {
+  padding: 50px;
+  font-size: x-large;
+  font-style: bold;
   color: darkblue;
 }
