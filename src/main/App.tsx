@@ -25,7 +25,7 @@ function App() {
         <div className="col-6">
           <LoanCalculator></LoanCalculator>
         </div>
-        {/* Loan Visualization */}
+        {/* Other Costs */}
         <div className="col-6">
           <OtherCosts></OtherCosts>
         </div>
